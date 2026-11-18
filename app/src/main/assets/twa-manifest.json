@@ -1,0 +1,9 @@
+{
+    "name": "WebKita Kasir",
+    "short_name": "WebKita",
+    "description": "Sistem kasir UMKM 1x klik/scan dengan proteksi data transaksi anti-hapus.",
+    "start_url": "https://webkita-kasir-five.vercel.app/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
